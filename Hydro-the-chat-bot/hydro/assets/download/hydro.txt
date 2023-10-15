@@ -1,0 +1,7 @@
+HYDRO is an  Responsive AI based chatbox which can provide both Text to Voice and Text to Text conversations.
+
+A chatbot is a computer program or software application designed to simulate conversation with human users, especially over the internet. Chatbots use artificial intelligence (AI) and natural language processing (NLP) technologies to understand and respond to user inputs in a conversational manner.
+
+Chatbots can be rule-based or AI-driven. Rule-based chatbots follow a predefined set of rules and responses, while AI-driven chatbots learn and adapt from user interactions, becoming more sophisticated and capable of handling a broader range of queries over time.
+
+The use of chatbots has grown significantly in recent years, as they offer a cost-effective way for businesses and organizations to provide efficient and personalized customer service, automate routine tasks, and engage users in real-time conversations

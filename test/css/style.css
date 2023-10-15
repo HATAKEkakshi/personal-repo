@@ -1,0 +1,42 @@
+/**********************************************-Tag selectors**************************************/
+body{
+    background-color: #Eaf6f6;
+}
+h1{
+    color: #04364A;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+/*******************************************classes selectors**************************************/
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+/*****************************************Heading**************************************************/
+#heading{
+    color:rebeccapurple;
+}
+.reed{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.bluue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.yelllow{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+

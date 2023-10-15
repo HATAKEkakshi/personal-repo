@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../CYBERCUP"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hydro"
+	}
+}
